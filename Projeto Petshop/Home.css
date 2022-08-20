@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    text-align: center;
+                   
+}
+
+#menu ul{
+   margin: 0;
+   background-color: rgb(67, 200, 82);
+   list-style: none ;
+   margin-left: 20%;
+   
+}
+
+#menu ul li {
+        display: inline;
+        text-align: center;
+
+}
+#menu ul li a {
+    padding: 30px 30px;
+ display: inline-block ;
+
+ color: rgb(234, 251, 235);
+ text-decoration: none ;
+}
+
+#menu ul li a:hover {
+color:black;
+}
+ div h2 {
+   margin: auto 20px auto 40px;
+ text-decoration: none;
+ font-weight: bold;
+ color: white;
+ }
+
+ #menu {
+   display: flex;
+   background-color:  rgb(67, 200, 82);;
+   
+ }
+ .footer{
+height: 50px;
+background-color:  rgb(67, 200, 82);
+padding: 10px;
+
+}
