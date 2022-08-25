@@ -45,3 +45,6 @@ height: 50px;
 background-color:  rgb(67, 200, 82);
 padding: 10px;
 }
+.img-r {
+  border-radius: 35%;
+}

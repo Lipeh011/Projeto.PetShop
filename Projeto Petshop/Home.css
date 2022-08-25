@@ -13,13 +13,13 @@ body {
 }
 
 #menu ul li {
-        display: inline;
-        text-align: center;
+  display: inline;
+  text-align: center;
 
 }
 #menu ul li a {
     padding: 30px 30px;
- display: inline-block ;
+    display: inline-block ;
 
  color: rgb(234, 251, 235);
  text-decoration: none ;
@@ -28,12 +28,7 @@ body {
 #menu ul li a:hover {
 color:black;
 }
- div h2 {
-   margin: auto 20px auto 40px;
- text-decoration: none;
- font-weight: bold;
- color: white;
- }
+
 
  #menu {
    display: flex;
@@ -45,4 +40,10 @@ height: 50px;
 background-color:  rgb(67, 200, 82);
 padding: 10px;
 
+}
+.img-r {
+  
+  height: 500px;
+  width: 800px;
+  border-radius: 10% ;
 }
